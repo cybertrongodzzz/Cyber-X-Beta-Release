@@ -36,17 +36,17 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //OWNER CONTACT
-global.vcardowner = ['918590745203'] //ur owner number
-global.ownername = "ᴄyʙᴇʀᴛʀᴏɴ ɢᴏᴅᴢᴢᴢ" //ur owner name
-global.ytname = "YT:ᴄyʙᴇʀᴛʀᴏɴ ɢᴏᴅᴢᴢᴢ" //ur yt chanel name
-global.socialm = "GitHub: cybertrongodzzz" //ur github or insta name
-global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
+global.vcardowner = ['94782678550'] //ur owner number
+global.ownername = "sehan bot" //ur owner name
+global.ytname = "YT:coding with pasindu sehan" //ur yt chanel name
+global.socialm = "GitHub: pasindu317" //ur github or insta name
+global.location = "Sri Lanka, Trincomalee" //ur location
 
 //BOT COSTOMIZEDTATION
-global.owner = ['918590745203']
-global.ownertag = '918590745203' //ur tag number
-global.botnumber = '918590745203' //Add your Bot Number For Log
-global.botname = 'CYBER-X BETA EDITION' //ur bot name
+global.owner = ['94782678550']
+global.ownertag = '94782678550' //ur tag number
+global.botnumber = '94782678550' //Add your Bot Number For Log
+global.botname = 'SEHAN-X BETA EDITION' //ur bot name
 global.ig = "https://youtube.com/@user-nb8ky9yo8j" //your theme url which will be displayed on whatsapp
 global.myweb = "https://youtube.com/@user-nb8ky9yo8j" //script link
 global.linkz = 'https://youtube.com/@user-nb8ky9yo8j'
@@ -59,7 +59,7 @@ global.aliveimg ="https://telegra.ph/file/38c052d313ccf14d80550.jpg"
 global.allmenuimg ="https://telegra.ph/file/4f8a6f14430de2a4f4991.jpg"
 global.welcomeimg= "https://telegra.ph/file/844812c77704231c08a90.jpg"
 global.gbyeimg = "https://telegra.ph/file/844812c77704231c08a90.jpg"
-global.alivemsg = "𝐂𝐘⃢𝐁𝐄𝐑𝐓𝐑⃝𝐎𝐍〽️𝐆𝐎𝐃𝐙"
+global.alivemsg = "Hey I am Alive Now"
 //BOT MEDIAS
 global.thum = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
 global.log0 = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur logo pic
@@ -68,7 +68,7 @@ global.thumb = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
 
 //DATA BASED
 
-global.premium = ['918590745203'] //ADD YOU NUMBER
+global.premium = ['94782678550'] //ADD YOU NUMBER
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
